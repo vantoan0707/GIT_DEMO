@@ -1,1 +1,1 @@
-# wpchatbot
+# AI course
